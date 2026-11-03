@@ -68,4 +68,7 @@ links:
   - title: 跨性別選校手冊
     tags: [支援團體]
     url: https://uniguide.transacademic.org/zh-hant/
+  - title: LGBTIQA+ 開源社交網絡
+    tags: [Social Media, General]
+    url: https://coolvibes.gay
 ---

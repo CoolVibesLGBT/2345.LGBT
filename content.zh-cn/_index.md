@@ -85,4 +85,7 @@ links:
   - title: MTF.LGBT
     tags: [MTF]
     url: https://mtf.lgbt/
+  - title: LGBTIQA+ 开源社交网络
+    tags: [Social Media, General]
+    url: https://coolvibes.gay
 ---

@@ -61,4 +61,7 @@ links:
   - title: Transgender University Guidance
     tags: [Algemeen]
     url: https://uniguide.transacademic.org
+  - title: LGBTIQA+ Open Source Social Network
+    tags: [Social Media, General]
+    url: https://coolvibes.gay
 ---
